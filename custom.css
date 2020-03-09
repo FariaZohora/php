@@ -1,0 +1,43 @@
+.left{
+    background-image: url(../img/1.jpeg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.lefty{
+    background-color: #000000bf;
+    height: 100vh;
+    color: white;
+}
+.smt{
+	margin-top:0%;
+}
+.smt i{
+	
+}
+.smt h4{
+    padding-top: 15%;
+    padding-left:5%;
+    width:90%;
+    font-size: 20px;
+}
+.smt p{
+    font-weight: 600;
+    color: #74a52a;
+    padding-left:5%;
+    width:90%;
+}
+
+.right{
+	background-color: #000000e6;
+	width:100%;
+	text-align: center;
+	height:100vh;
+}
+.col-sm-6{
+    margin: 0px;
+    padding: 0px;
+}
+form{
+	padding-top: 30%
+}
